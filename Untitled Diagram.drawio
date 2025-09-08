@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="or6Wmy1F4mfHQvreYG1z">
-    <mxGraphModel>
+    <mxGraphModel dx="1630" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3193" y="-104" width="715" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2478" y="-104" width="715" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1763" y="-104" width="715" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="-104" width="715" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="-104" width="715" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-382" y="-104" width="715" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-7" value="Mobile Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-382" y="-104" width="266" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-8" value="API Gateway Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="-104" width="266" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-9" value="Microservices Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="-104" width="266" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-10" value="AI/ML Processing Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1763" y="-104" width="266" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-11" value="Data Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2478" y="-104" width="266" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-12" value="Infrastructure Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3193" y="-104" width="266" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="-z-HuNJIueqmxbGfs1E_-1" target="-z-HuNJIueqmxbGfs1E_-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="186" as="sourcePoint" />
+            <mxPoint x="608" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-116" y="-88" as="sourcePoint" />
+            <mxPoint x="276" y="-88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599" y="-88" as="sourcePoint" />
+            <mxPoint x="991" y="-88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314" y="-88" as="sourcePoint" />
+            <mxPoint x="1706" y="-88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2029" y="-88" as="sourcePoint" />
+            <mxPoint x="2421" y="-88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2744" y="-88" as="sourcePoint" />
+            <mxPoint x="3136" y="-88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-z-HuNJIueqmxbGfs1E_-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3459" y="-88" as="sourcePoint" />
+            <mxPoint x="3851" y="-88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
