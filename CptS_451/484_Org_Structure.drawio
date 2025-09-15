@@ -41,7 +41,9 @@
           <mxGeometry y="60" width="186" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g5Q8lWYbaktfJA1gs0ud-20" value="System Architect &amp;amp; Documentation Lead" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="95" width="186" height="128" as="geometry" />
+          <mxGeometry x="338" y="95" width="186" height="128" as="geometry">
+            <mxRectangle x="338" y="95" width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g5Q8lWYbaktfJA1gs0ud-21" value="Team Member: Nick Vendeland" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-20">
           <mxGeometry y="30" width="186" height="30" as="geometry" />
