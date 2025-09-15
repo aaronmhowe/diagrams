@@ -60,7 +60,7 @@
         <mxCell id="g5Q8lWYbaktfJA1gs0ud-26" value="Responsible for testing strategy and development, and quality metrics reports and analysis." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-24">
           <mxGeometry y="60" width="186" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="g5Q8lWYbaktfJA1gs0ud-29" value="&lt;div align=&quot;left&quot;&gt;Communication Strategy:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Team will converse in weekly stand-up meetings via Discord Voice Channel to discuss and progress and tasks going forward.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-29" value="&lt;div align=&quot;left&quot;&gt;Communication Strategy:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Team will converse in weekly stand-up meetings via Discord Voice Channel to discuss progress and tasks going forward.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="143" y="331" width="414" height="172" as="geometry" />
         </mxCell>
       </root>
