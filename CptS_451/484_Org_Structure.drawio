@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="lBmliFUlVLV7GqzB_0bY">
-    <mxGraphModel>
+    <mxGraphModel dx="991" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-4" value="Project Manager" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-29" width="186" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-5" value="Team Member: Arlo Roos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-4">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-6" value="In charge of task managment, team coordination, and stakeholder communication." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-4">
+          <mxGeometry y="60" width="186" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-8" value="Mobile Application Development" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="95" width="186" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-9" value="Team Member: Aaron Howe" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-8">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-10" value="Charged with the development of an iOS and Android compatible application." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-8">
+          <mxGeometry y="60" width="186" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-12" value="Technical Lead &amp;amp; Backend Development" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="95" width="186" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-13" value="Team Member: Josh Evans" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-12">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-14" value="Responsible for the system architecture, backend services, and API." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-12">
+          <mxGeometry y="60" width="186" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-16" value="UI/UX Design &amp;amp; Accessibility" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="237" width="186" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-17" value="Team Member: Grace Anderson" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-16">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-18" value="User interface design and accessibility compliance and best practices" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-16">
+          <mxGeometry y="60" width="186" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-20" value="System Architect &amp;amp; Documentation Lead" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="95" width="186" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-21" value="Team Member: Nick Vendeland" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-20">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-22" value="In charge of system design and component integration. Documentation, V/C, and Environment Management." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-20">
+          <mxGeometry y="60" width="186" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-24" value="Quality Assurance &amp;amp; Testing Lead" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="237" width="186" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-25" value="Team Member: Jaeger Nelson&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-24">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-26" value="Responsible for testing strategy and development, and quality metrics reports and analysis." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5Q8lWYbaktfJA1gs0ud-24">
+          <mxGeometry y="60" width="186" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Q8lWYbaktfJA1gs0ud-29" value="&lt;div align=&quot;left&quot;&gt;Communication Strategy:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Team will converse in weekly stand-up meetings via Discord Voice Channel to discuss and progress and tasks going forward.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="143" y="331" width="414" height="172" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
